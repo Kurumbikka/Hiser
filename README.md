@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/lH5sJdR.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/JrNZWu7.jpeg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Hiser" src="https://img.shields.io/badge/Hiser-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
