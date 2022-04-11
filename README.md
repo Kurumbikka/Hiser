@@ -62,8 +62,6 @@ $ node julie.js
   <a href="httsp://github.com/farhan-dqz/JulieMwol">
     
 
-
-
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stephin-yt&repo=Hiser&theme=nightowl)](https://github.com/stephin-yt/Hiser)
   </div>
     
