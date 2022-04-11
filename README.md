@@ -26,6 +26,15 @@ Project created by <a href="https://github.com/stephin-yt">Stephin</a> to make i
         Reserved |
     <br> 
 </p>
+ 
+ <h3 align="center">Contact Me:</h3>
+<p align="center">
+<a href="https://www.instagram.com/stephin_68/" target="blank"><img align="center" src="https://i.imgur.com/6oCMFWN.png" alt="kyrie.baran" height="80" width="90" /></a>
+</p>        
+<h4 align="center">Deploy Bot 👇:</h4>
+<p align="center">
+<a href="https://youtu.be/t1O1VyejM4U" target="blank"><img align="center" src="https://i9.ytimg.com/vi/t1O1VyejM4U/hqdefault.jpg?v=6249b8b6&sqp=COCHz5IG&rs=AOn4CLBOpn4jib3sWj3N_4ihfCHyvBL4OA" height="300" width="420" /></a>
+</p>
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/stephin-yt/Hiser&title=Profile%20Views)
 
