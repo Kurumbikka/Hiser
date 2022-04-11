@@ -1,4 +1,10 @@
 
+## 📢Introduce myself
+
+ - 😃I'm Stephin
+ - 🚩I'm a beginner in this field
+ - 🏫Students
+ 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/JrNZWu7.jpeg" width="200" height="200"/>
   <p align="center">
