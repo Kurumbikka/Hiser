@@ -61,15 +61,7 @@ $ node julie.js
   <p align="center">
   <a href="httsp://github.com/farhan-dqz/JulieMwol">
     
-<a href="https://github.com/stephin-yt/followers">
-<img src="https://img.shields.io/github/repo-size/stephin-yt/Hiser?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/stephin-yt/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/stephin-yt?color=blue&style=flat-square"></a>
-<a href="https://github.com/stephin-yt/Hiser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/stephin-yt/Hiser?color=blue&style=flat-square"></a>
-<a href="https://github.com/stephin-yt/Hiser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/stephin-yt/Hiser?color=blue&style=flat-square"></a>
-<a href="https://github.com/stephin-yt/Hiser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/stephin-yt/Hiser?label=Watchers&color=blue&style=flat-square"></a>
-</p>
+
 
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stephin-yt&repo=Hiser&theme=nightowl)](https://github.com/stephin-yt/Hiser)
