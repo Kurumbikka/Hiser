@@ -48,6 +48,12 @@ THEN COPY THE LINK BELLOW AND CHANGE THE NAME
 
 Copy this link https://heroku.com/deploy?template=https://github.com/stephin-yt/Hiser
 </p>
+ 
+ 
+ <div align="center">
+
+  ![Hiser Logo](https://github.com/stephin-yt/Hisernew/blob/master/hiser%20intro.gif)
+  
 
   
 ### Simple Method
